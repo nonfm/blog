@@ -1,0 +1,20 @@
+title:              Non-Rock Radio
+tagline:            Blog
+description:        Non-Rock Radio 是一个不局限风格的 J-Rock 电台，由几名喜欢日本音乐的爱好者组成。
+url:                /blog
+
+author:
+  name:             Non-Rock Radio
+  url:              https://nonfm.onrender.com
+  email:            nonfm@vivaldi.net
+
+# GitHub Pages / Jekyll configuration
+baseurl:            '/blog'
+permalink:          /:title/
+paginate:           8
+defaults:
+  -
+    scope:
+      path:         ''
+    values:
+      layout:       post
