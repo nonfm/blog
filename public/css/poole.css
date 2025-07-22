@@ -45,11 +45,11 @@ html,
 body {
   margin: 0;
   padding: 0;
-  font-family: "思源屏显臻宋", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
 }
 
 html {
-  font-family: "思源屏显臻宋", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -373,7 +373,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "思源屏显臻宋", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
   color: #ccc;
   text-align: center;
 }
