@@ -41,11 +41,11 @@ body {
 }
 
 html {
-  font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: '思源屏显臻宋', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Source Han Sans CN', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: '思源屏显臻宋', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Source Han Sans CN', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', serif !important;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: '思源屏显臻宋', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Source Han Sans CN', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', serif !important;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -351,7 +351,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: '思源屏显臻宋', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Source Han Sans CN', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', serif !important;
   color: #ccc;
   text-align: center;
 }
@@ -543,8 +543,4 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
-}
-
-html, body, .sidebar {
-  font-family: '思源屏显臻宋', 'Noto Sans CJK SC', 'Source Han Sans SC', 'Source Han Sans CN', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', serif !important;
 }
