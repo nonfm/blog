@@ -35,6 +35,7 @@
  */
 
 /* Prevent scroll on narrow devices */
+@import url("https://chinese-fonts-cdn.deno.dev/packages/sypxzs/dist/%E6%80%9D%E6%BA%90%E5%B1%8F%E6%98%BE%E8%87%BB%E5%AE%8B/result.css");
 html,
 body {
   overflow-x: hidden;
