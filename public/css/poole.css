@@ -68,7 +68,7 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  color: #1c469c;
   text-decoration: none;
 }
 a strong {
@@ -231,21 +231,21 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 0 0 0rem;
   border-radius: 5px;
 }
 
 /* Tables */
 table {
-  margin-bottom: .5rem;
+  margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #e5e5e5;
+  border: 1px solid #f9f9f9;
   border-collapse: collapse;
 }
 td,
 th {
   padding: .5rem .5rem;
-  border: 1px solid #e5e5e5;
+  border: 1px solid #f9f9f9;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
